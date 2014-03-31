@@ -2,6 +2,9 @@
 
 ![Codeship Status](https://www.codeship.io/projects/873d78d0-9b08-0131-c6bc-3ef70637d4d1/status)
 
-This is just my first Rails app that I set up for fun... we'll see where it leads.
+This is simply one of my first Rails apps that I created to learn some basic stuff...
 
-Ruby Version: 2.1.0
+
+
+* Ruby version - 2.1.0
+
