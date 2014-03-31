@@ -8,4 +8,3 @@ This is simply one of my first Rails apps that I created to learn some basic stu
 
 * Ruby version - 2.1.0
 
-
