@@ -3,8 +3,6 @@ source 'https://rubygems.org'
 gem "less-rails"
 gem "twitter-bootstrap-rails"
 
-# gem "rspec"
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
