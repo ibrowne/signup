@@ -14,6 +14,7 @@ end
 # ... and postgresql for deployment on heroku:
 group :production do
   gem 'pg'
+  gem 'rails_12factor', '0.0.2'
 end
 
 # Use SCSS for stylesheets
